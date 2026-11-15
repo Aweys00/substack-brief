@@ -1,0 +1,9 @@
+[
+  {"slug": "damnang", "name": "Damnang Research", "feed": "https://www.damnang.com/feed", "x": "https://x.com/damnang2"},
+  {"slug": "gaetano", "name": "Gaetano", "feed": "https://gaetanoresearch.substack.com/feed"},
+  {"slug": "vik", "name": "Vik's Newsletter", "feed": "https://www.viksnewsletter.com/feed", "x": "https://x.com/vikramskr"},
+  {"slug": "nutty", "name": "Nutty", "feed": "https://nuttycld.substack.com/feed", "x": "https://x.com/NuttyCLD"},
+  {"slug": "taekim", "name": "Key Context (Tae Kim)", "feed": "https://taekim.substack.com/feed", "x": "https://x.com/firstadopter"},
+  {"slug": "clouded-judgement", "name": "Clouded Judgement (Jamin Ball)", "feed": "https://cloudedjudgement.substack.com/feed", "x": "https://x.com/jaminball"},
+  {"slug": "chips-and-cheese", "name": "Chips and Cheese", "feed": "https://chipsandcheese.com/feed", "x": "https://x.com/ChipsandCheese9"}
+]
